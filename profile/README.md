@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://less.build">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/github-org-masthead-dark@4x.png">
-      <source media="(prefers-color-scheme: light)" srcset="./images/github-org-masthead@4x.png">
-      <img src="./images/github-org-masthead@4x.png" width="800" alt="Buildless for Gradle" />
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/images/github-org-masthead-dark@4x.png">
+      <source media="(prefers-color-scheme: light)" srcset="./profile/images/github-org-masthead.png">
+      <img src="./profile/images/github-org-masthead.png" width="800" alt="Buildless for Gradle" />
     </picture>
     <br />
   </a>
