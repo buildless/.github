@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://less.build">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/images/github-org-masthead-dark@3x.png">
-      <source media="(prefers-color-scheme: light)" srcset="./profile/images/github-org-masthead.png@3x.png">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/images/github-org-masthead-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="./profile/images/github-org-masthead.png">
       <img src="./profile/images/github-org-masthead.png" width="800" alt="Buildless for Gradle" />
     </picture>
     <br />
