@@ -17,7 +17,7 @@
 
 ## About Buildless
 
-Welcome! We're glad you're here 👋.
+Welcome! We're glad you're here 👋
 
 ### How does it work?
 
